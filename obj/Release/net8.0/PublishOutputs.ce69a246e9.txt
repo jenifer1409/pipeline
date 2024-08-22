@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\githubcicd.exe
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\githubcicd.dll
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\githubcicd.deps.json
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\githubcicd.runtimeconfig.json
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\githubcicd.pdb
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\source\repos\githubcicd\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
